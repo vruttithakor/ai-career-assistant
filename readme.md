@@ -21,6 +21,4 @@ An AI-powered web application that helps users create resumes, cover letters, an
 * PDF Download
 
 ## Author
-
-Unnati Thakor
-
+VRUTTI THAKOR
