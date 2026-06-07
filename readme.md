@@ -1,47 +1,26 @@
-AI Career Assistant
+# AI Career Assistant
 
-Features:
-1. AI Resume Builder
-2. AI Cover Letter Generator
-3. AI Interview Question Generator
-4. Skill Recommendations
-5. PDF Download
+## Description
 
-## project workflow
+An AI-powered web application that helps users create resumes, cover letters, and interview questions.
 
-User opens website
-        ↓
-Clicks "Get Started"
-        ↓
-Fills form (Name, Education, Skills, Experience)
-        ↓
-Clicks Generate
-        ↓
-Gemini AI receives data
-        ↓
-AI generates Resume / Cover Letter / Interview Questions
-        ↓
-Results displayed on screen
-        ↓
-User downloads PDF
+## Technologies Used
 
+* Python
+* Flask
+* HTML
+* CSS
+* Bootstrap
+* Gemini API
 
+## Features
 
-## Tech Stack
+* Resume Builder
+* Cover Letter Generator
+* Interview Question Generator
+* PDF Download
 
-Frontend:
-- HTML
-- CSS
-- Bootstrap
+## Author
 
-Backend:
-- Flask (Python)
+Unnati Thakor
 
-AI:
-- Gemini API
-
-PDF Generation:
-- ReportLab
-
-Deployment:
-- Render
